@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8059556214449101457}
   - component: {fileID: 5205524436372368987}
   - component: {fileID: 7495897042745662861}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Tram_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
